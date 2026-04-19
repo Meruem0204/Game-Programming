@@ -1,3 +1,14 @@
-The core gameplay is simple: players control a pixel-style brave man to pass through 3 levels. The basic operation includes moving left and right with arrow keys and jumping with the space bar (single jump to simplify programming). The core goal is to avoid enemies and obstacles, reach the end flag of each level to unlock the next one, and collect optional gold coins to accumulate scores.
-The protagonist is a brave man with 3 simple animations (standing, walking, jumping) and 1 health point; touching enemies or dangerous obstacles will lead to failure. There are 2 types of enemies: slow snails and patrolling little monsters, both with simple movement logic. Obstacles include fixed platforms, spikes and pits, focusing on collision detection and boundary detection programming.
-The 3 levels are progressively difficult: the novice level focuses on basic movement, the advanced level adds more enemies and spikes, and the final level has complex platform layouts. The game process includes startup, level selection, gameplay, failure handling and victory settlement, covering key programming points such as graphics drawing, keyboard event monitoring, collision detection and state management, which is easy to disassemble and implement.
+The core gameplay is simple: players control a pixel-style brave man to pass through 3 levels.
+The basic operation includes moving left and right with arrow keys and jumping with the space bar (single jump to simplify programming).
+The core goal is to avoid enemies and obstacles, reach the end flag of each level to unlock the next one, and collect optional gold coins to accumulate scores.
+The protagonist is a brave man with 3 simple animations (standing, walking, jumping) and 1 health point;
+touching enemies or dangerous obstacles will lead to failure.
+There are 2 types of enemies: slow snails and patrolling little monsters, both with simple movement logic.
+Obstacles include fixed platforms, spikes and pits, focusing on collision detection and boundary detection programming.
+The 3 levels are progressively difficult:
+the novice level focuses on basic movement,
+the advanced level adds more enemies and spikes,
+and the final level has complex platform layouts.
+The game process includes startup, level selection, gameplay, failure handling and victory settlement,
+covering key programming points such as graphics drawing, keyboard event monitoring, collision detection and state management,
+which is easy to disassemble and implement.
